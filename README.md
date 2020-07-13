@@ -2,6 +2,7 @@
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=%40vindecodex&style=social&url=https%3A%2F%2Ftwitter.com%2FVindecodex)
 ![GitHub followers](https://img.shields.io/github/followers/vindecodex?style=social)
+![GitHub](https://img.shields.io/github/license/vindecodex/vindecodex?style=flat-square)
 
 ### Hi there, Welcome to my Profile 👋
 
