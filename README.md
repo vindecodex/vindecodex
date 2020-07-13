@@ -1,6 +1,6 @@
 ![vv](https://user-images.githubusercontent.com/50949760/87239659-41dc5380-c444-11ea-8076-2e02ea075062.jpg)
 
-![Twitter URL](https://img.shields.io/twitter/url?label=%40vindecodex&style=social&url=https%3A%2F%2Ftwitter.com%2FVindecodex)
+![Twitter URL](https://img.shields.io/twitter/url?label=%40vindecodex&style=social&url=https%3A%2F%2Ftwitter.com%2FVindecodex)(https://twitter.com/Vindecodex)
 ![GitHub followers](https://img.shields.io/github/followers/vindecodex?style=social)
 ![GitHub](https://img.shields.io/github/license/vindecodex/vindecodex?style=flat-square)
 
