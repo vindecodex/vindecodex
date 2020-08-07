@@ -12,6 +12,16 @@
 
 🌱 With my free time I'am learning C++, clean code, clean architecture, design patterns, UML and systems design.
 
+### Interested In :sparkles:
+```c++
+enum Interest {
+  low-level-language = 97,
+  reverse-engineering,
+  electronics,
+  DevOps
+}
+```
+
 ### Technologies Learned
 |Language   |Frontend  | Database |
 |:----:     |:----:    |:----:    |
