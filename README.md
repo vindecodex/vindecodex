@@ -1,13 +1,14 @@
 ![vv](https://user-images.githubusercontent.com/50949760/87239659-41dc5380-c444-11ea-8076-2e02ea075062.jpg)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vindecodex&theme=monokai&show_icons=true)](https://github.com/vindecodex)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=monokai)](https://github.com/vindecodex)
+
+
 ### Hi there, Welcome to my Profile 👋
 
 🔭 I'am a software engineer currently working in a project using Javascript framework (React, Redux) and Node as backend.
 
 🌱 With my free time I'am learning C++, clean code, clean architecture, design patterns, UML and systems design.
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vindecodex&theme=monokai&show_icons=true)](https://github.com/vindecodex)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=monokai)](https://github.com/vindecodex)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vindecodex.vindecodex28-badge)
 [![Twitter URL](https://img.shields.io/twitter/url?label=%40vindecodex&style=social&url=https%3A%2F%2Ftwitter.com%2FVindecodex)](https://twitter.com/Vindecodex)
