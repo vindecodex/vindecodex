@@ -6,7 +6,8 @@
 
 🌱 With my free time I'am learning C++, clean code, clean architecture, design patterns, UML and systems design.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vindecodex)](https://github.com/vindecodex)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vindecodex&theme=monokai&show_icons=true)](https://github.com/vindecodex)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=monokai)](https://github.com/vindecodex)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vindecodex.vindecodex28-badge)
 [![Twitter URL](https://img.shields.io/twitter/url?label=%40vindecodex&style=social&url=https%3A%2F%2Ftwitter.com%2FVindecodex)](https://twitter.com/Vindecodex)
