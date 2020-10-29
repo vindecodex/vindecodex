@@ -27,8 +27,8 @@ enum Interest {
 ```
 
 ### Technologies Learned
-|Language   |Frontend  | Database | Frameworks |
-|:----:     |:----:    |:----:    |:----:      |
-|JavaScript |React     |MongoDB   |Electron    |
-|Golang     |Redux     |MySql     |            |
-|C++        |Vue       |Redis     |            |
+|Language   |Frontend  | Database | Other Frameworks | Other Libraries |
+|:----:     |:----:    |:----:    |:----:            |:----:           |
+|JavaScript |React     |MongoDB   |Electron          |Redux            |
+|Golang     |Vue       |MySql     |                  |                 |
+|C++        |          |Redis     |                  |                 |
