@@ -31,4 +31,4 @@ enum Interest {
 |:----:     |:----:    |:----:    |:----:      |
 |JavaScript |React     |MongoDB   |Electron    |
 |Golang     |Redux     |MySql     |            |
-|C++        |Vue       |          |            |
+|C++        |Vue       |Redis     |            |
