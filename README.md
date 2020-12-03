@@ -1,7 +1,7 @@
 ![vv](https://user-images.githubusercontent.com/50949760/87239659-41dc5380-c444-11ea-8076-2e02ea075062.jpg)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vindecodex&theme=monokai&show_icons=true)](https://github.com/vindecodex)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=monokai)](https://github.com/vindecodex)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vindecodex&layout=compact&theme=monokai)](https://github.com/vindecodex)
 
 
 ### Hi there, Welcome to my Profile 👋
