@@ -30,5 +30,5 @@ enum Interest {
 |Language   |Frontend  | Database | Other Frameworks | Other Libraries | Runtime     |
 |:----:     |:----:    |:----:    |:----:            |:----:           |:----:       |
 |JavaScript |React     |MongoDB   |Electron          |Redux            | Node        |
-|Golang     |Vue       |MySql     |                  |Recoil           |             |
+|Golang     |Vue       |MySql     |NextJS            |Recoil           |             |
 |C++        |          |Redis     |                  |                 |             |
