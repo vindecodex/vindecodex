@@ -16,19 +16,5 @@
 ![GitHub](https://img.shields.io/github/license/vindecodex/vindecodex?style=flat-square)
 [![strava](https://user-images.githubusercontent.com/50949760/89611818-b3c38380-d8b0-11ea-8bd3-240a883491dc.png)](https://www.strava.com/athletes/49126605)
 
-### Interested In :sparkles:
-```c++
-enum Interest {
-  low-level-language = 97,
-  reverse-engineering,
-  electronics,
-  DevOps
-}
-```
-
 ### Technologies Learned
-|Language   |Frontend  | Database | Other Frameworks | Other Libraries | Runtime     |
-|:----:     |:----:    |:----:    |:----:            |:----:           |:----:       |
-|JavaScript |React     |MongoDB   |Electron          |Redux            | Node        |
-|Golang     |Vue       |MySql     |NextJS            |Recoil           |             |
-|C++        |          |Redis     |                  |                 |             |
+`JavaScript`, `React`, `MongoDB`, `Electron`, `Redux`, `Node`, `Golang`, `Vue`, `MySql`,  `NextJS`, `Recoil`, `C++`, `Redis`, `Docker`
