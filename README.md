@@ -17,4 +17,4 @@
 [![strava](https://user-images.githubusercontent.com/50949760/89611818-b3c38380-d8b0-11ea-8bd3-240a883491dc.png)](https://www.strava.com/athletes/49126605)
 
 ### Technologies Learned
-`JavaScript`, `React`, `MongoDB`, `Electron`, `Redux`, `Node`, `Golang`, `Vue`, `MySql`,  `NextJS`, `Recoil`, `C++`, `Redis`, `Docker`
+`Golang`, `JavaScript`, `Typescript`, `Node`, `React`, `MongoDB`, `Electron`, `Redux`, `Vue`, `MySql`, `NextJS`, `Recoil`, `C++`, `Redis`, `Docker`
