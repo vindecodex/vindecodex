@@ -7,13 +7,10 @@
 `Node`
 `React`
 `MongoDB`
-`Electron`
 `Redux`
-`Vue`
 `MySql`
 `NextJS`
-`Recoil`
-`C++`
-`Redis`
 `Docker`
+`Hexagonal Architecture`
+`gRPC`
 ```
