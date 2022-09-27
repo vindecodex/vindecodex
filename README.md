@@ -4,13 +4,13 @@
 `Golang`
 `JavaScript`
 `Typescript`
+`NestJS`
+`NextJS`
 `Node`
 `React`
-`MongoDB`
 `Redux`
 `MySql`
-`NextJS`
-`NestJS`
+`MongoDB`
 `Docker`
 `Hexagonal Architecture`
 `gRPC`
