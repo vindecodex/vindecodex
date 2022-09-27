@@ -10,6 +10,7 @@
 `Redux`
 `MySql`
 `NextJS`
+`NestJS`
 `Docker`
 `Hexagonal Architecture`
 `gRPC`
