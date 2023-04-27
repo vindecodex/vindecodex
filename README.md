@@ -14,27 +14,27 @@ Follow me on twitter, I post weekly about resources I've read online - Topics (O
 
 | Programming Language | Score (0-10) |
 | -------------------- | ------------ |
-| JavaScript           | 6            |
-| Go (Golang)          | 5            |
+| JavaScript           | 5            |
+| Go (Golang)          | 4            |
 | TypeScript           | 4            |
 
 | Frameworks | Score (0-10) |
 | ---------- | ------------ |
-| NestJS     | 6            |
+| NestJS     | 5            |
 | NextJS     | 4            |
-| ReactJs    | 3            |
+| ReactJs    | 2            |
 
 | Databases           | Score (0-10) |
 | ------------------- | ------------ |
 | Redis (for caching) | 5            |
-| PostgreSQL          | 5            |
+| PostgreSQL          | 4            |
 | MySQL               | 4            |
 
 | DevOps         | Score (0-10) |
 | -------------- | ------------ |
-| Docker         | 5            |
-| Docker Compose | 5            |
-| Kubernetes     | 4            |
+| Docker         | 4            |
+| Docker Compose | 4            |
+| Kubernetes     | 2            |
 
 | Software Design & Principles |
 | ---------------------------- |
